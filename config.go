@@ -1,7 +1,7 @@
 package main
 
 import (
-	"terraform-provider-subreg-cz/subreg"
+	"github.com/falsecz/terraform-provider-subregcz/subreg"
 )
 
 type Config struct {

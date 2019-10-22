@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strconv"
 	"strings"
-	"terraform-provider-subreg-cz/subreg"
+	"github.com/falsecz/terraform-provider-subregcz/subreg"
 
 	"github.com/hashicorp/terraform/helper/schema"
 )
