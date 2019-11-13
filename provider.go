@@ -21,7 +21,7 @@ func Provider() *schema.Provider {
 			},
 		},
 		ResourcesMap: map[string]*schema.Resource{
-			"subreg_record": resourceSubregRecord(),
+			"subregcz_record": resourceSubregRecord(),
 		},
 		ConfigureFunc: providerConfigure,
 	}
