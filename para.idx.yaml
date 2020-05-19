@@ -1,0 +1,9 @@
+v1.2.1:
+  darwin_amd64:
+    url: https://github.com/falsecz/terraform-provider-subregcz/releases/download/v1.2.1/terraform-provider-subregcz_darwin_amd64
+    size: 32104352
+    digest: sha256:d8e730de120813779d57cf8f5db19b888a1a5fb255e9898ab3aac030aa653081
+  linux_amd64:
+    url: https://github.com/falsecz/terraform-provider-subregcz/releases/download/v1.2.1/terraform-provider-subregcz_linux_amd64
+    size: 32494202
+    digest: sha256:d61a65e6f440f62e8004a9f9fe3b1cd19e1820865c6f4edc7339030baadadcae
